@@ -1,0 +1,22 @@
+@import '../font/stylesheet.css';
+@import 'normalize.css';
+
+:root {}
+
+html {
+    font-size: 62.5%;
+}
+
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'TikTok Display';
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}

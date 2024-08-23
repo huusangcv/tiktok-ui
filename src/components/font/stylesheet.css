@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'TikTok Text';
+    src: url('TikTokText-Regular.woff2') format('woff2'),
+        url('TikTokText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TikTok Display';
+    src: url('TikTokDisplay-Bold.woff2') format('woff2'),
+        url('TikTokDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TikTok Text';
+    src: url('TikTokText-Medium.woff2') format('woff2'),
+        url('TikTokText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TikTok Text';
+    src: url('TikTokText-Bold.woff2') format('woff2'),
+        url('TikTokText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TikTok Display';
+    src: url('TikTokDisplay-Medium.woff2') format('woff2'),
+        url('TikTokDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TikTok Display';
+    src: url('TikTokDisplay-Regular.woff2') format('woff2'),
+        url('TikTokDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
