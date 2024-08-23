@@ -1,7 +1,11 @@
 @import '../font/stylesheet.css';
 @import 'normalize.css';
 
-:root {}
+:root {
+    //Defalt layout
+    --default-layout-height: 60px;
+    --default-layout-width: 1150px
+}
 
 html {
     font-size: 62.5%;
@@ -11,6 +15,8 @@ html {
 *,
 ::after,
 ::before {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 

@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { pulicRoutes } from '~/routes';
-import { DefaultLayout, HeaderOnly } from './components/Layout';
+import { DefaultLayout, HeaderOnly } from './components/Layouts';
 import { Fragment } from 'react';
 function App() {
     return (
